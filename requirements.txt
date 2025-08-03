@@ -1,0 +1,5 @@
+misaki[en]
+misaki[zh]
+gradio
+soundfile
+kokoro-onnx
